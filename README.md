@@ -2,7 +2,6 @@
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
-
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; 
 <a href="#-projeto"> Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp; 
@@ -19,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-<img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+<img alt="calendario da copa" src="./github/preview.jpg" width="100%">
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
